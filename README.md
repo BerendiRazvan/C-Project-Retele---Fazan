@@ -1,2 +1,2 @@
 # C-Project-Retele---Fazan
-Aceasta este un joc simplu cu doi clienți care se conectează la server pentru a juca Fazan.
+This is a simple game with two clients connecting to the server to play Pheasant.
